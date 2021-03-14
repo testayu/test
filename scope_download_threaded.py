@@ -1,4 +1,3 @@
-import requests
 import warnings
 import json
 from threading import Thread
